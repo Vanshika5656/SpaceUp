@@ -10,11 +10,14 @@
     <!-- <img src="aboutUsTest1.jpeg" width="1524" height="238"> -->
     <!-- <hr style="color: white;"> -->
     <p style="font-family:'futura';font-size:91px;align-items: center;"> &nbsp;&nbsp;&nbsp; SPACE UP</p>
+<<<<<<< 
+
 <<<<<<< HEAD
-    <p style="text-align: center; font-size:27px; margin-top: 2%;">"THIS IS THE SECOND TRAIL OF GIT MERGE. The future is today. And Space Up
+    <p style="text-align: center; font-size:27px; margin-top: 2%;">"THIS IS THE SECOND TRAIL OF GIT MERGE. RESOLVING CONFLICTSS. The future is today. And Space Up
 =======
-    <p style="text-align: center; font-size:27px; margin-top: 2%;">"THIS IS THE FIRST TRIAL . The future is today. And Space Up
->>>>>>> ee2a85f8192ba5a5058b9bc169b88c0b612e7d2a
+    <p style="text-align: center; font-size:27px; margin-top: 2%;">"THIS IS THE SECOND TRAIL OF GIT MERGE. RESOLVING CONFLICTSSS. The future is today. And Space Up
+>>>>>>> dbceb2556d18723d071a2e193bb6dcc1c360c5c5
+
         continues to lead the way in opening the space frontier."</p>
     </b>
     <div class="container">
