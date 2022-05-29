@@ -23,7 +23,7 @@ function showSlides(n1) { //gets 2 as argument
     slides[slideIndex - 1].style.display = "block"; //since slides is now an array that stores all the slides, for the index, we subtract one and show one slide that is needed
 
 
-    if (n1 - 1 == 0) { //since we need to change the corresponding pages below it too, this is what n1 is doing rn
+    if (n1 - 1 == 0) { //since we need to change the corresponding pages below it too, this is what n1 is doing right now
         document.getElementById("hostingFrame").src = "mooninfo.html";
         document.getElementById("hostingFrame1").src = "mooninfo2.html";
     }
